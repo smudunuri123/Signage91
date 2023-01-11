@@ -9,6 +9,7 @@ plugins {
 
 android {
     compileSdk 33
+    compileSdkExtension 4
 
     defaultConfig {
         applicationId "com.app.signage91"
