@@ -1,0 +1,282 @@
+{
+  "statusCode": 200,
+  "restartApp": false,
+  "restartSystem": false,
+  "signageLogo": {
+    "position": "topleft"
+  },
+  "orientation": 1,
+  "data": [
+    {
+      "campaignName": "camp1",
+      "advertiser": "Ad1",
+      "duration": 100000,
+      "assets": [{
+        "assetType": "videoList",
+        "urls": [{
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "filename": "bigbunnyy1.mp4"
+        },
+          {
+            "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "filename": "Elephat2.mp4"
+          }
+        ],
+        "duration": 30,
+        "mute": false,
+        "isPrimary": false,
+        "coordinates": {
+          "x": 0,
+          "y": 0,
+          "height": 40,
+          "width": 100
+        }
+      },
+        {
+          "assetType": "youtube",
+          "url": "II_m28Bm-iM",
+          "mute": true,
+          "duration": 0,
+          "isPrimary": false,
+          "coordinates": {
+            "x": 0,
+            "y": 40,
+            "height": 30,
+            "width": 50
+          }
+        },
+        {
+          "assetType": "imageList",
+          "urls": [
+            {
+              "url": "https://cdn2.vectorstock.com/i/1000x1000/95/01/online-business-banners-set-with-advertising-vector-6209501.jpg",
+              "filename": "vector_6209501.jpg"
+            },
+            {
+              "url": "https://cdn3.vectorstock.com/i/1000x1000/06/32/digital-marketing-concept-banners-vector-8450632.jpg",
+              "filename": "vector_8450632.jpg"
+            },
+            {
+              "url": "https://img.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-394.jpg?w=2000",
+              "filename": "template_202595.jpg"
+            },
+            {
+              "url": "https://i.pinimg.com/736x/a4/89/13/a48913daea801deb1eaaad21f01bbc0c.jpg",
+              "filename": "pinimg.jpg"
+            },
+            {
+              "url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/business-banner-advertising-design-template-aebf779d2afa43bdb051accd03d708de_screen.jpg?ts=1597416742",
+              "filename": "d1csarkz8obe9u.jpg"
+            },
+            {
+              "url": "https://5.imimg.com/data5/HU/OF/MY-3601156/banner-advertisement-services-500x500.jpg",
+              "filename": "services_500500.jpg"
+            },
+            {
+              "url": "https://img.lovepik.com/desgin_photo/40016/6805_detail.jpg!wh650",
+              "filename": "6805_detail.jpg"
+            },
+            {
+              "url": "https://static.vecteezy.com/system/resources/previews/008/442/291/original/email-marketing-web-banner-design-social-media-marketing-and-advertising-banner-email-marketing-self-branding-banner-design-social-media-post-design-corporate-email-signature-design-vector.jpg",
+              "filename": "signature_design_vector.jpg"
+            },
+            {
+              "url": "https://cdn.dribbble.com/users/4838879/screenshots/15111669/media/03ff8a1d0c34f849990664429f5b23ca.jpg?compress=1&resize=400x300",
+              "filename": "dribbble.jpg"
+            },
+            {
+              "url": "https://c8.alamy.com/comp/PTW764/business-marketingpromotionadvertising-and-strategyadvertising-and-marketing-communication-iconsadvertising-and-promotion-internet-banner-concept-PTW764.jpg",
+              "filename": "concept_PTW764.jpg"
+            },
+            {
+              "url": "https://media.gettyimages.com/id/1391907745/vector/megaphone-with-breaking-news-loudspeaker-banner-for-business-marketing-and-advertising.jpg?s=1024x1024&w=gi&k=20&c=BQbOb1vn7vGJexAfZWpw_Ii8W3rl_VwpF6nQE99jl8Y=",
+              "filename": "gettyimages.jpg"
+            },
+            {
+              "url": "https://c8.alamy.com/comp/2CT9B4T/social-media-marketing-team-work-and-communication-tile-for-presentation-and-web-banner-bright-soft-color-ideal-for-apps-marketing-and-advertising-2CT9B4T.jpg",
+              "filename": "advertising-2CT9B4T.jpg"
+            },{
+              "url": "https://thumbs.dreamstime.com/z/square-banner-promotion-design-marketing-advertising-square-banner-promotion-design-marketing-advertising-220944340.jpg",
+              "filename": "advertising_220944340.jpg"
+            },{
+              "url": "https://cpimg.tistatic.com/03729889/b/4/Vinyl-Advertising-Banner-w300.jpg",
+              "filename": "Banner_w300.jpg"
+            }
+          ],
+          "mute": true,
+          "duration": 0,
+          "isPrimary": false,
+          "coordinates": {
+            "x": 50,
+            "y": 40,
+            "height": 30,
+            "width": 50
+          }
+        },
+        {
+          "assetType": "imageList",
+          "urls": [{
+            "url": "https://www.myhoardings.com/ads/wp-content/uploads/2021/02/marketing-ad-icon.jpg",
+            "filename": "marketing_ad_icon.jpg"
+          },
+            {
+              "url": "https://www.sendiancreations.com/wp-content/uploads/2019/12/The-difference-between-advertising-and-marketing-1024x683.jpg",
+              "filename": "marketing_1024683.jpg"
+            },
+            {
+              "url": "https://ahrefs.com/blog/wp-content/uploads/2022/02/2-advertising-part-of-marketing.png",
+              "filename": "ahrefs.jpg"
+            },
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0070/7032/files/Marketing_VS._Advertising.jpg?v=1651709056",
+              "filename": "Advertising.jpg"
+            },
+            {
+              "url": "https://www.consultantsreview.com/newstransfer/upload/6l6gtrsz_83105515-dizain-advertising.jpg",
+              "filename": "gtrsz_83105515.jpg"
+            },
+            {
+              "url": "https://ohiostate.pressbooks.pub/app/uploads/sites/8/2016/08/Marketing_PR_Advert_Update_1200px.png",
+              "filename": "Update_1200px.jpg"
+            },
+            {
+              "url": "https://builtin.com/sites/www.builtin.com/files/styles/og/public/blockchain-marketing_0.png",
+              "filename": "builtin.jpg"
+            },
+            {
+              "url": "https://i.pinimg.com/736x/b6/80/a6/b680a65ee456ba9299a356a2a0605392.jpg",
+              "filename": "pinimg_ba9299.jpg"
+            },
+            {
+              "url": "https://c8.alamy.com/comp/H1T1N0/grocery-shopping-banner-with-consumer-holding-a-bag-filled-with-vegetables-H1T1N0.jpg",
+              "filename": "vegetables-H1T1N0.jpg"
+            },
+            {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSpcrXKfTOb5BZ2Fkk9r2wNuaHeBEO5CxZL1P26jV5fJF3iS1Tcz63E2CHiYpi-ugIVk&usqp=CAU",
+              "filename": "encrypted-tbn0.jpg"
+            },
+            {
+              "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/18d60b107187879.5fa16aecd880f.jpg",
+              "filename": "5fa16aecd880f.jpg"
+            },
+            {
+              "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d7dfad107187879.5fa16aecd773f.jpg",
+              "filename": "project_modules_2CT9B4T.jpg"
+            },{
+              "url": "https://i.pinimg.com/236x/68/e6/2f/68e62fb46761aaa17ae65730e893abba.jpg",
+              "filename": "68e62fb46761aaa17.jpg"
+            },{
+              "url": "https://img.freepik.com/premium-psd/vegetable-grocery-delivery-promotion-web-banner-facebook-cover-instagram-template_502896-109.jpg",
+              "filename": "freepik.jpg"
+            },{
+              "url": "https://i.pinimg.com/736x/47/80/0c/47800ce47ccdecb8d1de94980c4b6887.jpg",
+              "filename": "gabriels47800ce47c.jpg"
+            }
+          ],
+          "mute": true,
+          "duration": 0,
+          "isPrimary": false,
+          "coordinates": {
+            "x": 0,
+            "y": 70,
+            "height": 30,
+            "width": 50
+          }
+        },
+        {
+          "assetType": "imageList",
+          "urls": [
+            {
+              "url": "https://i.pinimg.com/originals/ba/2f/17/ba2f17387ecb22612e76576dc6890bd6.jpg",
+              "filename": "vector_ba2f17387e.jpg"
+            },
+            {
+              "url": "https://i.pinimg.com/originals/51/1f/6a/511f6aab5c2a0c15f7eb953a3a0b0642.jpg",
+              "filename": "vector_511f6aab5c.jpg"
+            },
+            {
+              "url": "https://i.pinimg.com/236x/34/6e/f1/346ef11f5d3d64f02ea8e7d64f2910d7.jpg",
+              "filename": "template_346ef11f5d3d.jpg"
+            },
+            {
+              "url": "https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/5ef45230c2de8_template_image_1593070128.webp",
+              "filename": "d3jmn01ri1fzgl.jpg"
+            },
+            {
+              "url": "https://rukminim1.flixcart.com/image/416/416/poster/v/x/z/you-don-t-need-a-silver-fork-to-eat-great-food-paul-prudhomme-original-imae2mfrd3z5b8dp.jpeg?q=70",
+              "filename": "rukminim1.jpg"
+            },
+            {
+              "url": "https://i.pinimg.com/236x/f8/f4/47/f8f4478ad61aae1aab58aa6c597f8af6.jpg",
+              "filename": "services_f8f4478ad61aae1aab58.jpg"
+            },
+            {
+              "url": "https://cdn5.vectorstock.com/i/1000x1000/58/94/colorful-poster-in-white-background-of-e-commerce-vector-16595894.jpg",
+              "filename": "commerce_vector_16595894.jpg"
+            },
+            {
+              "url": "https://thumbs.dreamstime.com/b/online-shopping-e-commerce-flat-banner-template-internet-customer-doing-shopping-mobile-phone-tablet-computer-poster-115715938.jpg",
+              "filename": "thumbs_dreamstime.jpg"
+            },
+            {
+              "url": "https://cdn4.vectorstock.com/i/1000x1000/59/23/colorful-poster-in-yellow-background-of-e-commerce-vector-16595923.jpg",
+              "filename": "commerce_vector_16595923.jpg"
+            },
+            {
+              "url": "https://img.freepik.com/free-psd/gradient-e-commerce-poster-template_23-2149981329.jpg?w=2000",
+              "filename": "img_freepik.jpg"
+            },
+            {
+              "url": "https://img.freepik.com/premium-vector/online-shopping-flyer-template_23-2148870417.jpg?w=2000",
+              "filename": "template_23_2148870417.jpg"
+            },
+            {
+              "url": "https://www.ibef.org/uploads/files/e-commerce-poster%2040.jpg",
+              "filename": "e_commerce_poste_2040.jpg"
+            },{
+              "url": "https://www.ibef.org/uploads/files/Ecommerce-23-12-2020-1.jpg",
+              "filename": "Ecommerce_23_12_2020_1.jpg"
+            },{
+              "url": "https://img.pikbest.com/03/06/64/50hpIkbEsTwgk.jpg!bwr800",
+              "filename": "img_pikbest_w300.jpg"
+            },{
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ88dPHmvbs9PUq7rga_pIHYwk3GmUqthrKM5DfdWGJnG3z8hJlsGkBEpJujUYINBSbKKQ&usqp=CAU",
+              "filename": "gstaticshaoolian.jpg"
+            },
+            {
+              "url": "https://i.pinimg.com/736x/c6/91/a2/c691a2327c8b65ef3862f04023b6a876.jpg",
+              "filename": "img_freepik_c691a2.jpg"
+            },
+            {
+              "url": "https://m.media-amazon.com/images/I/71aT7NxqlvL._SL1000_.jpg",
+              "filename": "template_71aT7NxqlvL.jpg"
+            },
+            {
+              "url": "https://img.freepik.com/free-vector/flat-car-rental-vertical-poster-template_23-2149236600.jpg?w=2000",
+              "filename": "e_commerce_poste_2149236600.jpg"
+            },{
+              "url": "https://media.istockphoto.com/id/1318734390/vector/car-repair-service-and-spare-parts-shop-poster.jpg?s=1024x1024&w=is&k=20&c=Wl9JIlav8PrIh0jVNAGeLDVanfGqafa3leMsfwS7AFY=",
+              "filename": "Ecommerce_23_istockphoto.jpg"
+            },{
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0gCvJ6KhyCs2tvp03iLYRlEMZdI3BFbkSA&usqp=CAU",
+              "filename": "img_pikbest_ANd9GcRf0gCvJ.jpg"
+            },{
+              "url": "https://img.freepik.com/free-psd/car-rental-instagram-social-media-post-banner-template_501970-67.jpg?w=2000",
+              "filename": "gstaticshaoolian_501970.jpg"
+            }
+          ],
+          "mute": true,
+          "duration": 0,
+          "isPrimary": false,
+          "coordinates": {
+            "x": 50,
+            "y": 70,
+            "height": 30,
+            "width": 50
+          }
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

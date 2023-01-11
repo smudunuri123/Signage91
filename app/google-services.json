@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552134061573",
+    "project_id": "signage-player-91",
+    "storage_bucket": "signage-player-91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552134061573:android:b44be8e903e0222754766c",
+        "android_client_info": {
+          "package_name": "com.app.signage91"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552134061573-ivfsu1vaihhvj7dc66sfjs65rmgfjdu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSxCGZNz4gnLe7ObQsT-6pa-ggdScuFhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552134061573-ivfsu1vaihhvj7dc66sfjs65rmgfjdu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

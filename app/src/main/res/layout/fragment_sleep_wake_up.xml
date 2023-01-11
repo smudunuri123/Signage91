@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/turnOffScreenButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Turn Off Screen" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/turnOnScreenButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Turn On Screen" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/turnOffScreenAfterSomeTimeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Turn Off Screen After some time" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/installApk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Install Apk" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

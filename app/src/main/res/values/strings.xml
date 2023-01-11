@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Signage91</string>
+
+    <!--Menu-->
+    <string name="select_file">Select Video</string>
+    <string name="image_button_desc">This is the play and pause button for the video player.</string>
+    <string name="default_value">00:00</string>
+    <string name="lorem_ipsume">Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </string>
+    <string name="permissions_request">If you deny a permission, App functionality is restricted.</string>
+</resources>

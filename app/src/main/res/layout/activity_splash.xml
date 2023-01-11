@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/androidDefaultVideoViewButton"
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center_horizontal"
+                android:checked="false"
+                android:text="Android Default"
+                android:textSize="20sp" />
+
+            <RadioButton
+                android:id="@+id/exoPlayerButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13"
+                android:checked="false"
+                android:text="Exoplayer"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/textViewButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13"
+                android:checked="false"
+                android:text="TextView"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/rssFeedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13"
+                android:checked="false"
+                android:text="RSS Feed"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/rssFeedCompoundButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13"
+                android:checked="false"
+                android:text="RSS Feed Compound"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/gRPCCompoundButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13"
+                android:checked="false"
+                android:text="gRPC"
+                android:textSize="20dp" />
+
+
+            <RadioButton
+                android:id="@+id/restApiCompoundButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13"
+                android:checked="false"
+                android:text="REST API"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/adbCommandsCompoundButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13"
+                android:checked="false"
+                android:text="ADB Commands"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/orientationCompoundButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13"
+                android:checked="false"
+                android:text="Orientation Change"
+                android:textSize="20dp" />
+
+
+            <RadioButton
+                android:id="@+id/screenShotAndRecordingButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13"
+                android:checked="false"
+                android:text="Screenshot and Recording"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/sleepAndWakeUpButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13"
+                android:checked="false"
+                android:text="Sleep And Wake Up"
+                android:textSize="20dp" />
+
+            <RadioButton
+                android:id="@+id/componentButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0.13"
+                android:checked="false"
+                android:text="Component"
+                android:textSize="20dp" />
+
+        </RadioGroup>
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/confirmButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Confirm" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.core.widget.NestedScrollView>

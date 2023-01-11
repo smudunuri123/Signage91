@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/portraitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PORTRAIT" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/landscapeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LANDSCAPE" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/automaticButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AUTOMATIC" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/installApkButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INSTALL APK FROM ASSETS" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,25 @@
+{
+  "statusCode": 200,
+  "data": [{
+    "campaignName": "camp1",
+    "advertiser": "Ad1",
+    "duration": 10000,
+    "assets": [
+      {
+        "assetType": "image",
+        "url": "https://static.vecteezy.com/system/resources/previews/002/107/506/original/91-years-anniversary-celebration-logo-template-design-illustration-vector.jpg",
+        "mute": true,
+        "duration": 0,
+        "filename": "systemz.jpg",
+        "isPrimary": false,
+        "coordinates": {
+          "x": 0,
+          "y": 60,
+          "height": 36,
+          "width": 100
+        }
+      }
+    ]
+  }],
+  "errors": []
+}
